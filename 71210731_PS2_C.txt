@@ -1,3 +1,13 @@
-Mengisi platform 1 
-Mengisi Platform 2
-lalu mengisi emer A sampai penuh
+penjelasan 
+platform 1 yang atas
+platform 2 bawah platform 1
+platform 3 kiri platform 1
+platform 4 bawah platform 3
+
+jawaban 
+air mengisi dari
+platform 1 
+ke platform 2
+ke platform 4 
+dan mengisi penuh ember B
+di karenakan jalan dari ember lain sudah tertutup
